@@ -149,12 +149,6 @@ AdPlan (кампания)
 
 ---
 
-## Связанные ресурсы
-
-- 🎯 [MCP сервер VK Ads](https://www.npmjs.com/package/@theyahia/vk-ads-mcp) — AI-агент для работы с VK Ads API
-- 🌐 [Официальная документация](https://ads.vk.com/en/doc/api) — оригинал (JavaScript SPA)
-- 📦 [@theyahia/mcp-skills](https://github.com/theYahia/mcp-skills) — готовые AI-скиллы для маркетинга
-
 ---
 
 ## Лицензия
